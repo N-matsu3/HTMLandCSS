@@ -5,9 +5,13 @@
 }
 
 .header {
-  width: 100%;
-  height: 120px;
-  background-color: red;
+  width: 90%;
+  padding: 15px 0;
+  margin: 0 auto;
+}
+
+header .heading {
+  font-size: 32px;
 }
 
 .header-top{
@@ -56,5 +60,5 @@
 .footer {
   width: 100%;
   height: 120px;
-  background-color: blue;
+
 }
