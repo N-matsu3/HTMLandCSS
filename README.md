@@ -6,3 +6,5 @@
 
 #chapter5
 👉 「nav領域を設定する」　から
+ 🍚 CSSの「header」を「.header」にしていて
+ 　  中央揃えに出来ていなかった。
