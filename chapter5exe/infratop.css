@@ -4,13 +4,10 @@
   box-sizing: border-box;
  }
 
-a {
-  text-decoration:;
-}
 
 header {
   width: 90%;
-  padding: 15px 0;
+  padding: 20px 0 ;
   margin: 0 auto;
   text-align: center;
 }
@@ -19,9 +16,14 @@ header .heading {
   font-size: 32px;
 }
 
+.nav {
+  width: auto;
+  height: auto;
+  border: 1px solid black;
+}
 .nav-list {
   text-align: center;
-  padding: 10px 0;
+  padding: 15px;
   margin: 0 auto;
 }
 
@@ -31,7 +33,7 @@ header .heading {
   margin: 0 20px;
 }
 
-.top {
+.box {
   display: flex;
   width: 800px;
   margin: 50px auto;
@@ -62,14 +64,62 @@ header .heading {
   background-color: #93ffab;
 }
 
+.box21 {
+  width: 200px;
+  height: 200px;
+  background-color: #f3ffd8;
+}
+
+.box22 {
+  width: 200px;
+  height: 200px;
+  background-color: #edffbe;
+}
+
+.box23 {
+  width: 200px;
+  height: 200px;
+  background-color: #e9ffa5;
+}
+
+.box24 {
+  width: 200px;
+  height: 200px;
+  background-color: #e4ff8d;
+}
+
+.box31 {
+  width: 200px;
+  height: 200px;
+  background-color: #d9e5ff;
+}
+
+.box32 {
+  width: 200px;
+  height: 200px;
+  background-color: #bad3ff;
+}
+
+.box33 {
+  width: 200px;
+  height: 200px;
+  background-color: #a4c6ff;
+}
+
+.box34 {
+  width: 200px;
+  height: 200px;
+  background-color: #8eb8ff;
+}
 
 footer {
   width: 100%;
   height: 120px;
   text-align: center;
+  line-height: 120px;
   background-color: #848282;
 }
 
 .tooter-text {
-  color: #fff;
+  color: gray;
 }

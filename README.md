@@ -8,4 +8,6 @@
 👉 「nav領域を設定する」　から
  🍚 CSSの「header」を「.header」にしていて
  　  中央揃えに出来ていなかった。
+
 👉chapter5_exercise から
+ 🍚 自力でやったけどfooterが上手くいかなかった
