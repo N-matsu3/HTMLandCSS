@@ -12,4 +12,5 @@
 👉chapter5_exercise から
  🍚 自力でやったけどfooterが上手くいかなかった←スペルミスだった
  
- #chapter6
+#chapter6
+👉 chapter6_exercise→OK 
