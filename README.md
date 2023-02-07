@@ -16,4 +16,4 @@
 👉 chapter6_exercise→OK 
 
 #chapter7
-👉
+👉 exercise自力でやってみた。次回答え合わせ
