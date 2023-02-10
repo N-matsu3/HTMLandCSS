@@ -25,6 +25,10 @@ header {
   position: absolute;
   top: 22px;
   right: 22px;
+  }
+
+.fab{
+  font-size: 32px;
 }
 
 .social i {
