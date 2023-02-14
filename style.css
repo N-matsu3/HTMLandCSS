@@ -67,6 +67,11 @@ header .heading {
   background-size: cover;
   background-position: center;
 }
+@media screen and (max-width: 425px) {
+  .main-visual {      /* 例です */
+    width: 425px;  /* 例です */
+  }
+}
 
 .main-visual-content {
   width: 40%;
@@ -74,6 +79,12 @@ header .heading {
   background-color: rgba(0,0,0,0.5);
 text-align: center;
 padding-top: 105px;
+}
+
+@media screen and (max-width: 425px) {
+  .main-visual-content {      /* 例です */
+    width: 100%;  /* 例です */
+  }
 }
 
 .main-visual-text {
@@ -87,10 +98,16 @@ padding-top: 105px;
 
 main {
   width: 800px;
-  display: flex;
+  display: block;
   justify-content: center;
   margin: 0 auto;
   padding: 70px 0;
+}
+
+@media screen and (max-width: 425px) {
+  main {      /* 例です */
+    width: 100%;  /* 例です */
+  }
 }
 
 .blog {
@@ -102,6 +119,11 @@ main {
   border-bottom: 8px solid #f7f7f7;
   text-align: center;
   line-height: 0.6;
+}
+@media screen and (max-width: 425px) {
+  .blog-heading {      /* 例です */
+    width: 100%;  /* 例です */
+  }
 }
 
 .blog-box {

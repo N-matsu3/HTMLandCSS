@@ -22,6 +22,7 @@ main {
   margin-right: 30px;
   width: 300px;
   background-color: #fcfcfc;
+  position: relative;
 }
 
 .main-content:last-child {
@@ -35,8 +36,11 @@ main {
 }
 
 .main-image {
+  position: absolute;
+  top: 0;
+  right: 0;
+  
   height: 150px;
-  margin: 10px;
   background-size: cover;
   background-position: bottom;
   background-image: url(img/flow01.png);
